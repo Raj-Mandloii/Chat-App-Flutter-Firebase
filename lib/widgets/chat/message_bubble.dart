@@ -80,6 +80,7 @@ class MessageBubble extends StatelessWidget {
           ),
         ),
       ],
+      // need to fix the alignment.
       // clipBehavior: Clip.,
     );
   }
